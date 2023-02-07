@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on my backend development skills. 
-- 🌱 I’m currently learning nodejs and express while building flight booking system.
-- 🤔 I’m looking for help with DSA in general :)
+- 🌱 I’m currently learning express, No-SQL databases & unit testing(Jest) while building backend of Twitter.
 - 📫 How to reach me: dhananjaydaundkar1@gmail.com
 
